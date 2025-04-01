@@ -1,4 +1,3 @@
-# setting-up-vpc
 # AWS VPC Setup - KCVPC
 
 ## Overview
